@@ -2,7 +2,8 @@
 
 ### Requirements : 
 Python 3.7
-SQLite3 Brower
+
+SQLite3 Browser
 
 ### Contents:
 1) how to access databases using python3.
